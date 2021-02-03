@@ -135,7 +135,7 @@ transactions:
     fee: 'Fee'
     noFee: 'No fee'
     gasUsedWanted: 'Gas (used / wanted)'
-    noTxFound: 'No such transaction found.'
+    noTxFound: 'No such transaction found. It can take up to 20 minutes for your transaction to be registered by the chain.'
     noValidatorTxsFound: 'No transaction related to this validator was found.'
     memo: 'Memo'
     transfer: 'Transfer'
